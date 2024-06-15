@@ -1,8 +1,7 @@
-# [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
-默认全权限纯净砸壳
+### 全权限纯净砸壳安装包点此处： [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
 
-# [WeChat_Plugins](https://github.com/axs6/repo/tree/main/debs)
-旧版本插件备份
+
+### 越狱插件备份： [WeChat_Plugins](https://github.com/axs6/repo/tree/main/debs)
 
 
 
