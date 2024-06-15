@@ -1,16 +1,13 @@
-# [WeChat_Dump](https://github.com/yinanan77/Yi_WeChat/releases/tag/WeChat_dump)
+# [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
 默认全权限纯净砸壳
 
-# [WeChat_Plugins](https://github.com/yinanan77/Yi_WeChat/releases/tag/WeChat_Plugins)
+# [WeChat_Plugins](https://github.com/axs6/repo/tree/main/debs)
 旧版本插件备份
 
-## [Dump更远古的版本](https://pan.baidu.com/s/1WZpndbxXHYqokTMe4gEOYw)  
-提取码：Nana 
 
 仅做个人备份使用.
 
-### 反馈： [@YiAn7s_bot](https://t.me/YiAn7s_bot)
-### 频道： [@Yi_WeChat](https://t.me/Yi_WeChat) 
+### 频道： [@Yi_WeChat](https://t.me/wxfx8) 
 
 #### 免责声明
 * 项目内所涉及脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
@@ -33,12 +30,9 @@
 
 * 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
-## Star🌟
-
-<img src="https://api.star-history.com/svg?repos=yinanan77/Yi_WeChat&type=Date" alt="Star History Chart" width="600" height="356" align="center">
 
 ## 特别感谢
-*  [@sliverkiss](https://github.com/sliverkiss) 
+*  [@axs6](https://github.com/axs6) 
 
 ## License
 
