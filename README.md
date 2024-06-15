@@ -1,15 +1,15 @@
-## 一、微信全权限纯净版安装包点此处： [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
+## 1.微信全权限纯净版安装包点此处： [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
 
 
-## 二、越狱插件下载： [deb_Plugins](https://github.com/axs6/repo/tree/main/debs)
+## 2.越狱插件下载： [deb_Plugins](https://github.com/axs6/repo/tree/main/debs)
 
 
-## 三、TG频道： [@微信 | Wechat (全权限+纯净版)](https://t.me/wxfx8) 
+## 3.TG频道： [@微信 | Wechat (全权限+纯净版)](https://t.me/wxfx8) 
 
         仅做个人备份使用，欢迎添加微信  VCR66T  加入玩机群！
 
 
-## 四、免责声明
+## 4.免责声明
 * 项目内所涉及脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
 
 * 遵循避风港原则，若有图片和内容侵权，请告知，核实后删除，其版权均归原作者及其网站所有；
@@ -31,6 +31,6 @@
 * 本项目保留随时对免责声明进行补充或更改的权利，直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
 
-## 五、特别感谢
+## 5.特别感谢
 *  [@A先生](https://github.com/axs6) 
 
