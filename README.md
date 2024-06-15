@@ -1,7 +1,7 @@
 ### 微信全权限纯净版安装包点此处： [WeChat_Dump](https://github.com/axs6/WeChat/releases/tag/WeChat_Dump)
 
 
-### 越狱插件备份： [WeChat_Plugins](https://github.com/axs6/repo/tree/main/debs)
+### 越狱插件下载： [WeChat_Plugins](https://github.com/axs6/repo/tree/main/debs)
 
 
 
